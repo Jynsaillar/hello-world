@@ -92,3 +92,6 @@ jitwatch.out
 .metals
 .bloop
 project/**/metals.sbt
+
+# sbt
+.bsp/
